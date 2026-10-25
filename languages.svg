@@ -134,28 +134,28 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3572A5; 
-  width: 86.400%;
+  width: 86.545%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 10.251%;
+  width: 10.142%;
 " class="progress-item"></span><span style="
   background-color: #220000; 
-  width: 1.471%;
+  width: 1.456%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 0.523%;
+  width: 0.518%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 0.440%;
+  width: 0.435%;
 " class="progress-item"></span><span style="
   background-color: #fcb32c; 
-  width: 0.420%;
+  width: 0.416%;
 " class="progress-item"></span><span style="
   background-color: #a52a22; 
-  width: 0.409%;
+  width: 0.404%;
 " class="progress-item"></span><span style="
   background-color: #dea584; 
-  width: 0.042%;
+  width: 0.041%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.040%;
@@ -182,7 +182,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">86.40%</span>
+  <span class="percent">86.55%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -198,7 +198,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">10.25%</span>
+  <span class="percent">10.14%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -214,7 +214,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">YARA</span>
-  <span class="percent">1.47%</span>
+  <span class="percent">1.46%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -278,7 +278,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Jinja</span>
-  <span class="percent">0.41%</span>
+  <span class="percent">0.40%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
